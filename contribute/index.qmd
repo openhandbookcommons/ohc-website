@@ -3,10 +3,7 @@ title: "Contribute"
 page-layout: full
 title-block-banner: false
 toc: true
----
-
-Here is a **harmonized and slightly tightened version**. I kept your tone (simple, community-driven, practical) and made the wording consistent across sections.
-
+toc-depth: 3
 ---
 
 This project depends on **community contributions**. People can help in many ways. Some contributions are technical, such as writing new sections, editing chapters, or helping improve the tools used to build and publish the books and this website. Other contributions are simpler but equally valuable, such as correcting typos and grammar, checking facts, identifying possible plagiarism, suggesting improvements, or helping make the text clearer.

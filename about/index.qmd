@@ -2,6 +2,8 @@
 title: "About"
 page-layout: full
 title-block-banner: false
+toc: true
+toc-depth: 3
 ---
 
 The **Open Handbook Commons** is a community project that creates practical books about everyday life skills. Our goal is to make useful knowledge available to everyone, no matter where they live or what their background is.
