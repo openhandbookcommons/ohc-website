@@ -1,0 +1,55 @@
+---
+title: "Contribute"
+page-layout: full
+title-block-banner: false
+toc: true
+---
+
+Here is a **harmonized and slightly tightened version**. I kept your tone (simple, community-driven, practical) and made the wording consistent across sections.
+
+---
+
+This project depends on **community contributions**. People can help in many ways. Some contributions are technical, such as writing new sections, editing chapters, or helping improve the tools used to build and publish the books and this website. Other contributions are simpler but equally valuable, such as correcting typos and grammar, checking facts, identifying possible plagiarism, suggesting improvements, or helping make the text clearer.
+
+We track suggestions and changes mainly through **GitHub**, where contributors can open issues, submit pull requests, or start discussions.
+
+If you are not familiar with GitHub, you can still contribute. Simply send your suggestions or corrections by email to **[contact@openhandbook.org](mailto:contact@openhandbook.org)**. We will review them and include them in the project when appropriate.
+
+## GitHub
+
+* Organization page: [https://github.com/openhandbookcommons](https://github.com/openhandbookcommons)
+* Visit our [library](../library/) to see the full list of books and links to their GitHub repositories.
+
+## Author Guidelines
+
+### Writing Style
+
+Authors contributing to **Open Handbook Commons** are encouraged to write in **simplified English**. Simplified English means writing in a clear and easy way so that many readers can understand the text. Many readers of open books are not native English speakers, so simple language helps make the material more accessible.
+
+Try to use common words and short sentences. Avoid slang, idioms, and unnecessarily complex vocabulary. If a technical term is required, briefly explain it the first time it appears.
+
+Organize your writing so it is easy to read. Use short paragraphs, clear headings, and lists or numbered steps when explaining procedures. Write in a direct and practical style. The goal is not to sound academic or complicated. The goal is to help readers understand the information quickly and clearly.
+
+### AI Usage
+
+You may use **AI or LLM tools** to help edit your writing, check grammar, or convert text into simplified English (recommended). However, contributors remain responsible for reviewing the content before submission. Make sure the information is accurate and that the writing reflects your own work.
+
+AI tools should assist with clarity and editing, but they should not replace careful human review.
+
+### Plagiarism
+
+Open Handbook Commons respects the work of others and expects contributors to avoid **plagiarism**. Plagiarism means copying text, ideas, images, or other content from someone else without proper credit. Contributions should generally be written in your own words.
+
+If you use information from books, articles, websites, or other sources, clearly cite or link to the original source. Short quotations may be used when necessary, but they should be clearly marked and credited.
+
+To avoid plagiarism, read the source material first and then explain the idea in your own words instead of copying sentences. When including facts, data, or specific ideas from another work, provide a reference so readers know where the information came from.
+
+Authors are encouraged to review their work before submission and ensure that the text is original. Several free tools can help check for possible plagiarism, including [Quetex](https://www.quetext.com/), [SmallSEOTools Plagiarism Checker](https://smallseotools.com/plagiarism-checker/), [Duplichecker](https://www.duplichecker.com/), and [Grammarly’s plagiarism checker](https://www.grammarly.com/plagiarism-checker). These tools can help identify sections of text that may closely match other published content.
+
+### Self-Contained Writing
+
+Because our books are intended to be **downloaded and printed**, we encourage authors to write in a **self-contained way** whenever possible. Important information should be included directly in the book rather than relying heavily on external websites.
+
+Links on the internet can change or disappear over time. When this happens, readers may not be able to verify information or follow references. For this reason, authors should try to explain concepts clearly within the text and include key details, examples, or summaries instead of relying only on external links.
+
+External links can still be used when necessary, but they should support the content rather than replace it. The more complete and self-contained a chapter or article is, the more useful and reliable the book will remain for future readers. When adding a link, consider whether it is likely to still exist many years from now.

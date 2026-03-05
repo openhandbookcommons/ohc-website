@@ -1,0 +1,14 @@
+---
+title: "Library"
+page-layout: article
+title-block-banner: false
+toc: true
+---
+
+We are starting work on several books and are looking for active contributors. Please visit the About and Contribute pages to learn more.
+
+## Cooking
+
+## Sweing and Mending
+
+## Digital Literacy

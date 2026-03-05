@@ -1,0 +1,18 @@
+---
+title: "Open Handbook Commons"
+about:
+  template: jolla
+  image: /images/logo.png
+format:
+  html:
+    toc: false
+    css: /css/homepage.css
+---
+
+```{=html}
+<hr>
+<p class="tagline">Open practical knowledge for everyone.</p>
+<hr>
+```
+
+**Under Active Development**
