@@ -12,7 +12,7 @@ The books cover simple and practical topics that help people in daily life. Thes
 
 Our books are released as downloadable, print-ready PDF files. Anyone can read them on a computer or phone, or print them and share them with others.
 
-Every book published by this project is released under the Creative Commons Attribution–NonCommercial–ShareAlike (CC BY-NC-SA) license. This means you are free to download, print, share, and adapt the material for personal and educational use. You must give proper credit, and any modified versions must use the same license. Commercial printing or selling the books is not allowed without permission.
+Every book published by this project is released under the [Creative Commons Attribution–NonCommercial–ShareAlike (CC BY-NC-SA)](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. This means you are free to download, print, share, and adapt the material for personal and educational use. You must give proper credit, and any modified versions must use the same license. Commercial printing or selling the books is not allowed without permission.
 
 All repositories in this organization are also licensed under CC BY-NC-SA unless a repository states otherwise.
 

@@ -11,7 +11,7 @@ format:
 
 ```{=html}
 <hr>
-<p class="tagline">Open practical knowledge for everyone.</p>
+<p class="tagline">Open Practical Knowledge for Everyone</p>
 <hr>
 ```
 
