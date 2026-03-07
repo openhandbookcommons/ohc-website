@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://openhandbook.org/contribute/index.html</loc>
-    <lastmod>2026-03-05T21:10:33.248Z</lastmod>
-  </url>
-  <url>
     <loc>https://openhandbook.org/about/index.html</loc>
-    <lastmod>2026-03-05T21:36:01.564Z</lastmod>
+    <lastmod>2026-03-07T20:02:05.019Z</lastmod>
   </url>
   <url>
-    <loc>https://openhandbook.org/library/index.html</loc>
-    <lastmod>2026-03-05T20:46:32.508Z</lastmod>
+    <loc>https://openhandbook.org/library.html</loc>
+    <lastmod>2026-03-07T20:47:15.059Z</lastmod>
   </url>
   <url>
     <loc>https://openhandbook.org/index.html</loc>
-    <lastmod>2026-03-05T21:34:45.629Z</lastmod>
+    <lastmod>2026-03-07T19:59:04.954Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openhandbook.org/contribute/index.html</loc>
+    <lastmod>2026-03-07T20:03:19.535Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openhandbook.org/books/ohc-001-digital-literacy/index.html</loc>
+    <lastmod>2026-03-07T20:55:00.867Z</lastmod>
   </url>
 </urlset>

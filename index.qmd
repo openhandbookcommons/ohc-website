@@ -1,5 +1,5 @@
 ---
-title: "Open Handbook Commons"
+#title: "Open Handbook Commons"
 about:
   template: jolla
   image: /images/logo.png
@@ -14,5 +14,12 @@ format:
 <p class="tagline">Open Practical Knowledge for Everyone</p>
 <hr>
 ```
+
+:::{.social}
+[{{< fa envelope >}}](mailto:contact@openhandbook.org) | 
+[[matrix]](https://matrix.to/#/#open-handbook:matrix.org) | 
+[{{< fa brands github >}}](https://github.com/openhandbookcommons) 
+:::
+
 
 **Under Active Development**

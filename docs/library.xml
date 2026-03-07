@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Open Handbook Commons</title>
+<link>https://openhandbook.org/library.html</link>
+<atom:link href="https://openhandbook.org/library.xml" rel="self" type="application/rss+xml"/>
+<description>Open practical knowledge for everyone.</description>
+<generator>quarto-1.8.26</generator>
+<lastBuildDate>Sat, 07 Mar 2026 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Digital Literacy</title>
+  <link>https://openhandbook.org/books/ohc-001-digital-literacy/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Digital technology is now part of everyday life. Many people use computers, smartphones, and the internet every day. We use these tools to communicate with others, learn new things, work, read news, watch videos, and store information.</p>
+<p>Because of this, it is important to understand how to use digital technology in a safe, responsible, and effective way. This ability is called digital literacy.</p>
+<p>Digital literacy is more than knowing how to use a computer or a phone. It also includes knowing how to find reliable information on the internet, communicate respectfully online, protect personal information, recognize scams and false information, and create and share digital content responsibly.</p>
+<p>This book is written to help readers learn these skills. It explains digital tools and ideas in clear and simple language. The chapters introduce common technologies, explain how the internet works, and discuss topics such as online safety, misinformation, and responsible online behavior.</p>
+<p>This book is written for students, teachers, self-learners, and anyone who wants to better understand the digital world. No advanced technical knowledge is required to read this book.</p>
+<p>Technology continues to change quickly. New tools and services appear every year. The goal of digital literacy is not only to learn how to use current tools, but also to develop the skills needed to learn and adapt in the future.</p>
+<p>We hope this book helps readers feel more confident when using digital technology and encourages thoughtful and responsible use of the internet and digital tools.</p>
+<p><strong>Note: This book is being actively written and not ready for release yet.</strong></p>
+<p>To contribute to this book, visit the GitHub repository:</p>
+<a href="https://github.com/openhandbookcommons/ohc-001-digital-literacy">openhandbookcommons/ohc-001-digital-literacy</a><br>
+<img src="https://img.shields.io/github/stars/openhandbookcommons/ohc-001-digital-literacy?style=social" alt="Stars">
+<img src="https://img.shields.io/github/forks/openhandbookcommons/ohc-001-digital-literacy?style=social" alt="Forks">
+<img src="https://img.shields.io/github/issues/openhandbookcommons/ohc-001-digital-literacy" alt="Issues">
+
+
+
+ ]]></description>
+  <category>Technology</category>
+  <guid>https://openhandbook.org/books/ohc-001-digital-literacy/</guid>
+  <pubDate>Sat, 07 Mar 2026 05:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

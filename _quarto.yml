@@ -5,11 +5,11 @@ project:
     - .nojekyll
 
 website:
-  #favicon: images/favicon.ico
+  favicon: images/logo.png
   title: "Open Handbook Commons"
   description: "Open practical knowledge for everyone."
   site-url: https://openhandbook.org
-  back-to-top-navigation: true
+  back-to-top-navigation: false
   navbar:
     background: dark
     foreground: light
@@ -18,31 +18,28 @@ website:
     logo-alt: "Open Handbook Commons Logo"
     right:
       - text: "Library"
-        file: library/index.qmd
+        file: library.qmd
       - text: "About"
         file: about/index.qmd
       - text: "Contribute"
         file: contribute/index.qmd
       #- text: "FAQs"
-      #  file: faq/index.qmd
-    left: 
-      - icon: github
-        href: https://github.com/openhandbookcommons
+      #  file: faq/index.qmq
 
   page-footer: 
     center: |
       <p>© 2026 Open Handbook Commons · openhandbook.org</p>
       <p>Except where otherwise noted, all content is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener"> Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International</a>.</p>
-    background: dark
-    foreground: light
+    background: light
+    foreground: dark
  
 format:
   html:
     theme: materia
     fontsize: 1.2em
-    css: /css/styles.css
+    #css: /css/styles.css
     #backgroundcolor: "#f4f6f8"
-    link-external-icon: true
+    link-external-icon: false
     link-external-newwindow: true
     #mainfont: Libertinus Serif
     include-in-header: 

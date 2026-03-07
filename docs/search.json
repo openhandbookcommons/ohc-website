@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "About",
+    "section": "",
+    "text": "The Open Handbook Commons is a community project that creates practical books about everyday life skills. Our goal is to make useful knowledge available to everyone, no matter where they live or what their background is.\nThe books cover simple and practical topics that help people in daily life. These include skills such as cooking, sewing and mending, home repair, basic survival, outdoor skills, digital literacy, and other useful knowledge. All books are written in simplified English so they are easier to read and understand, including for people who are not native English speakers.\nOur books are released as downloadable, print-ready PDF files. Anyone can read them on a computer or phone, or print them and share them with others.\nEvery book published by this project is released under the Creative Commons Attribution–NonCommercial–ShareAlike (CC BY-NC-SA) license. This means you are free to download, print, share, and adapt the material for personal and educational use. You must give proper credit, and any modified versions must use the same license. Commercial printing or selling the books is not allowed without permission.\nAll repositories in this organization are also licensed under CC BY-NC-SA unless a repository states otherwise."
+  },
+  {
+    "objectID": "about/index.html#disclaimers",
+    "href": "about/index.html#disclaimers",
+    "title": "About",
+    "section": "Disclaimers",
+    "text": "Disclaimers\nThe information in these books is provided for education, learning, and hobby use only and is shared “as is.” We do not guarantee that all information is complete or suitable for every situation. The Open Handbook Commons and its contributors are not responsible for any problems, damages, or losses that may result from using this information. Readers are responsible for making sure that any use of the information is safe and lawful.\nSome content may be written or edited with the help of AI tools, especially to convert text into simplified English - all content is reviewed by human contributors.\nThe community works to avoid plagiarism and to respect the work of others. If you find content that may be copied without proper credit or permission, please report it to contact@openhandbook.org, and we will review it."
+  },
+  {
+    "objectID": "about/index.html#contact",
+    "href": "about/index.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\nEmail: contact@openhandbook.org\nPublic Matrix Space: #open-handbook:matrix.org"
+  },
+  {
+    "objectID": "library.html",
+    "href": "library.html",
+    "title": "Library",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nDescription\n\n\n\n\n\n\n\n\nMar 7, 2026\n\n\nDigital Literacy\n\n\nA Practical Guide to Using Technology Wisely\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Open Handbook Commons",
+    "section": "",
+    "text": "Open Practical Knowledge for Everyone\n\n\n | [matrix] | \n\nUnder Active Development"
+  },
+  {
     "objectID": "contribute/index.html",
     "href": "contribute/index.html",
     "title": "Contribute",
@@ -21,66 +56,10 @@
     "text": "Author Guidelines\n\nWriting Style\nAuthors contributing to Open Handbook Commons are encouraged to write in simplified English. Simplified English means writing in a clear and easy way so that many readers can understand the text. Many readers of open books are not native English speakers, so simple language helps make the material more accessible.\nTry to use common words and short sentences. Avoid slang, idioms, and unnecessarily complex vocabulary. If a technical term is required, briefly explain it the first time it appears.\nOrganize your writing so it is easy to read. Use short paragraphs, clear headings, and lists or numbered steps when explaining procedures. Write in a direct and practical style. The goal is not to sound academic or complicated. The goal is to help readers understand the information quickly and clearly.\n\n\nAI Usage\nYou may use AI or LLM tools to help edit your writing, check grammar, or convert text into simplified English (recommended). However, contributors remain responsible for reviewing the content before submission. Make sure the information is accurate and that the writing reflects your own work.\nAI tools should assist with clarity and editing, but they should not replace careful human review.\n\n\nPlagiarism\nOpen Handbook Commons respects the work of others and expects contributors to avoid plagiarism. Plagiarism means copying text, ideas, images, or other content from someone else without proper credit. Contributions should generally be written in your own words.\nIf you use information from books, articles, websites, or other sources, clearly cite or link to the original source. Short quotations may be used when necessary, but they should be clearly marked and credited.\nTo avoid plagiarism, read the source material first and then explain the idea in your own words instead of copying sentences. When including facts, data, or specific ideas from another work, provide a reference so readers know where the information came from.\nAuthors are encouraged to review their work before submission and ensure that the text is original. Several free tools can help check for possible plagiarism, including Quetex, SmallSEOTools Plagiarism Checker, Duplichecker, and Grammarly’s plagiarism checker. These tools can help identify sections of text that may closely match other published content.\n\n\nSelf-Contained Writing\nBecause our books are intended to be downloaded and printed, we encourage authors to write in a self-contained way whenever possible. Important information should be included directly in the book rather than relying heavily on external websites.\nLinks on the internet can change or disappear over time. When this happens, readers may not be able to verify information or follow references. For this reason, authors should try to explain concepts clearly within the text and include key details, examples, or summaries instead of relying only on external links.\nExternal links can still be used when necessary, but they should support the content rather than replace it. The more complete and self-contained a chapter or article is, the more useful and reliable the book will remain for future readers. When adding a link, consider whether it is likely to still exist many years from now."
   },
   {
-    "objectID": "about/index.html",
-    "href": "about/index.html",
-    "title": "About",
+    "objectID": "books/ohc-001-digital-literacy/index.html",
+    "href": "books/ohc-001-digital-literacy/index.html",
+    "title": "Digital Literacy",
     "section": "",
-    "text": "The Open Handbook Commons is a community project that creates practical books about everyday life skills. Our goal is to make useful knowledge available to everyone, no matter where they live or what their background is.\nThe books cover simple and practical topics that help people in daily life. These include skills such as cooking, sewing and mending, home repair, basic survival, outdoor skills, digital literacy, and other useful knowledge. All books are written in simplified English so they are easier to read and understand, including for people who are not native English speakers.\nOur books are released as downloadable, print-ready PDF files. Anyone can read them on a computer or phone, or print them and share them with others.\nEvery book published by this project is released under the Creative Commons Attribution–NonCommercial–ShareAlike (CC BY-NC-SA) license. This means you are free to download, print, share, and adapt the material for personal and educational use. You must give proper credit, and any modified versions must use the same license. Commercial printing or selling the books is not allowed without permission.\nAll repositories in this organization are also licensed under CC BY-NC-SA unless a repository states otherwise."
-  },
-  {
-    "objectID": "about/index.html#disclaimers",
-    "href": "about/index.html#disclaimers",
-    "title": "About",
-    "section": "Disclaimers",
-    "text": "Disclaimers\nThe information in these books is provided for education, learning, and hobby use only and is shared “as is.” We do not guarantee that all information is complete or suitable for every situation. The Open Handbook Commons and its contributors are not responsible for any problems, damages, or losses that may result from using this information. Readers are responsible for making sure that any use of the information is safe and lawful.\nSome content may be written or edited with the help of AI tools, especially to convert text into simplified English - all content is reviewed by human contributors.\nThe community works to avoid plagiarism and to respect the work of others. If you find content that may be copied without proper credit or permission, please report it to contact@openhandbook.org, and we will review it."
-  },
-  {
-    "objectID": "about/index.html#contact",
-    "href": "about/index.html#contact",
-    "title": "About",
-    "section": "Contact",
-    "text": "Contact\nEmail: contact@openhandbook.org"
-  },
-  {
-    "objectID": "faq/index.html",
-    "href": "faq/index.html",
-    "title": "Open Handbook Commons",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "library/index.html",
-    "href": "library/index.html",
-    "title": "Library",
-    "section": "",
-    "text": "We are starting work on several books and are looking for active contributors. Please visit the About and Contribute pages to learn more."
-  },
-  {
-    "objectID": "library/index.html#cooking",
-    "href": "library/index.html#cooking",
-    "title": "Library",
-    "section": "Cooking",
-    "text": "Cooking"
-  },
-  {
-    "objectID": "library/index.html#sweing-and-mending",
-    "href": "library/index.html#sweing-and-mending",
-    "title": "Library",
-    "section": "Sweing and Mending",
-    "text": "Sweing and Mending"
-  },
-  {
-    "objectID": "library/index.html#digital-literacy",
-    "href": "library/index.html#digital-literacy",
-    "title": "Library",
-    "section": "Digital Literacy",
-    "text": "Digital Literacy"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Open Handbook Commons",
-    "section": "",
-    "text": "Open Practical Knowledge for Everyone\n\nUnder Active Development\n\n\n Back to top"
+    "text": "Digital technology is now part of everyday life. Many people use computers, smartphones, and the internet every day. We use these tools to communicate with others, learn new things, work, read news, watch videos, and store information.\nBecause of this, it is important to understand how to use digital technology in a safe, responsible, and effective way. This ability is called digital literacy.\nDigital literacy is more than knowing how to use a computer or a phone. It also includes knowing how to find reliable information on the internet, communicate respectfully online, protect personal information, recognize scams and false information, and create and share digital content responsibly.\nThis book is written to help readers learn these skills. It explains digital tools and ideas in clear and simple language. The chapters introduce common technologies, explain how the internet works, and discuss topics such as online safety, misinformation, and responsible online behavior.\nThis book is written for students, teachers, self-learners, and anyone who wants to better understand the digital world. No advanced technical knowledge is required to read this book.\nTechnology continues to change quickly. New tools and services appear every year. The goal of digital literacy is not only to learn how to use current tools, but also to develop the skills needed to learn and adapt in the future.\nWe hope this book helps readers feel more confident when using digital technology and encourages thoughtful and responsible use of the internet and digital tools.\nNote: This book is being actively written and not ready for release yet.\nTo contribute to this book, visit the GitHub repository:\nopenhandbookcommons/ohc-001-digital-literacy"
   }
 ]

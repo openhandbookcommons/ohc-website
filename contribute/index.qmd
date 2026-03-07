@@ -12,6 +12,7 @@ We track suggestions and changes mainly through **GitHub**, where contributors c
 
 If you are not familiar with GitHub, you can still contribute. Simply send your suggestions or corrections by email to **[contact@openhandbook.org](mailto:contact@openhandbook.org)**. We will review them and include them in the project when appropriate.
 
+
 ## GitHub
 
 * Organization page: [https://github.com/openhandbookcommons](https://github.com/openhandbookcommons)

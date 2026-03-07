@@ -1,0 +1,20 @@
+---
+title: Library
+listing:
+  - id: books
+    contents: books
+    sort: "date desc"
+    type: table
+    categories: numbered
+    page-size: 12
+    sort-ui: true
+    filter-ui: true
+    feed:
+      items: 1000
+    table-hover: false
+    table-striped: false
+    fields: [date, title, description]
+page-layout: full
+title-block-banner: false
+comments: false
+---

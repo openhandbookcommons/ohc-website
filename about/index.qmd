@@ -18,7 +18,7 @@ All repositories in this organization are also licensed under CC BY-NC-SA unless
 
 ## Disclaimers
 
-The information in these books is provided for education, learning, and hobby use only and is shared “as is.” We do not guarantee that all information is complete or suitable for every situation. The Open Handbook Commons and its contributors are not responsible for any problems, damages, or losses that may result from using this information. Readers are responsible for making sure that any use of the information is safe and lawful.
+The information in these books is provided for education, learning, and hobby use only and is shared "as is." We do not guarantee that all information is complete or suitable for every situation. The Open Handbook Commons and its contributors are not responsible for any problems, damages, or losses that may result from using this information. Readers are responsible for making sure that any use of the information is safe and lawful.
 
 Some content may be written or edited with the help of AI tools, especially to convert text into simplified English - all content is reviewed by human contributors.
 
@@ -27,3 +27,5 @@ The community works to avoid plagiarism and to respect the work of others. If yo
 ## Contact
 
 Email: [contact@openhandbook.org](mailto:contact@openhandbook.org)
+
+Public Matrix Space: [#open-handbook:matrix.org](https://matrix.to/#/#open-handbook:matrix.org)
