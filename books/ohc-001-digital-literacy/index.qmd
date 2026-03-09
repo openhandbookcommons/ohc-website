@@ -19,10 +19,47 @@ Technology continues to change quickly. New tools and services appear every year
 
 We hope this book helps readers feel more confident when using digital technology and encourages thoughtful and responsible use of the internet and digital tools.
 
-**Note: This book is being actively written and not ready for release yet.**
+## Download
+
+**This book is being actively written and not ready for release yet.**
+
+## Proposed Parts and Chapters
+
+* I Understanding the Digital World
+    * What Is Digital Literacy?
+    * Types of Digital Devices
+* II Basic Digital Skills
+    * Operating Systems and File Management
+    * Using the Internet
+    * Communication Online
+* III Finding and Evaluating Information
+    * Searching for Reliable Information
+    * Misinformation and Fake News
+    * Understanding Digital Media
+* IV Online Safety and Privacy
+    * Protecting Your Personal Information
+    * Passwords and Account Security
+    * Protecting Your Personal Information
+* V Digital Citizenship
+    * Responsible Behavior Online
+    * Digital Footprints
+    * Copyright and Creative Commons
+* VI Creating Digital Content
+    * Writing and Publishing Online
+    * Working With Digital Media
+    * Collaboration in the Digital World
+* VII Digital Skills for Work and Learning
+    * Productivity Tools
+    * Using Technology for Lifelong Learning
+* VIII The Future of the Digital World
+    * Artificial Intelligence and Automation
+    * Ethical Use of Technology
+    * Staying Digitally Literate
+
+## Contribute
 
 ```{=html}
-<p>To contribute to this book, visit the GitHub repository:</p>
+<p><b>To contribute to this book, visit the GitHub repository or send your contribution by email at <a href="mailto:contact@openhandbook.org">contact@openhandbook.org</a>:</b></p>
 <a href="https://github.com/openhandbookcommons/ohc-001-digital-literacy">openhandbookcommons/ohc-001-digital-literacy</a><br>
 <img src="https://img.shields.io/github/stars/openhandbookcommons/ohc-001-digital-literacy?style=social" alt="Stars">
 <img src="https://img.shields.io/github/forks/openhandbookcommons/ohc-001-digital-literacy?style=social" alt="Forks">

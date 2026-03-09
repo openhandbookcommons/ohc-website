@@ -1,40 +1,5 @@
 [
   {
-    "objectID": "about/index.html",
-    "href": "about/index.html",
-    "title": "About",
-    "section": "",
-    "text": "The Open Handbook Commons is a community project that creates practical books about everyday life skills. Our goal is to make useful knowledge available to everyone, no matter where they live or what their background is.\nThe books cover simple and practical topics that help people in daily life. These include skills such as cooking, sewing and mending, home repair, basic survival, outdoor skills, digital literacy, and other useful knowledge. All books are written in simplified English so they are easier to read and understand, including for people who are not native English speakers.\nOur books are released as downloadable, print-ready PDF files. Anyone can read them on a computer or phone, or print them and share them with others.\nEvery book published by this project is released under the Creative Commons Attribution–NonCommercial–ShareAlike (CC BY-NC-SA) license. This means you are free to download, print, share, and adapt the material for personal and educational use. You must give proper credit, and any modified versions must use the same license. Commercial printing or selling the books is not allowed without permission.\nAll repositories in this organization are also licensed under CC BY-NC-SA unless a repository states otherwise."
-  },
-  {
-    "objectID": "about/index.html#disclaimers",
-    "href": "about/index.html#disclaimers",
-    "title": "About",
-    "section": "Disclaimers",
-    "text": "Disclaimers\nThe information in these books is provided for education, learning, and hobby use only and is shared “as is.” We do not guarantee that all information is complete or suitable for every situation. The Open Handbook Commons and its contributors are not responsible for any problems, damages, or losses that may result from using this information. Readers are responsible for making sure that any use of the information is safe and lawful.\nSome content may be written or edited with the help of AI tools, especially to convert text into simplified English - all content is reviewed by human contributors.\nThe community works to avoid plagiarism and to respect the work of others. If you find content that may be copied without proper credit or permission, please report it to contact@openhandbook.org, and we will review it."
-  },
-  {
-    "objectID": "about/index.html#contact",
-    "href": "about/index.html#contact",
-    "title": "About",
-    "section": "Contact",
-    "text": "Contact\nEmail: contact@openhandbook.org\nPublic Matrix Space: #open-handbook:matrix.org"
-  },
-  {
-    "objectID": "library.html",
-    "href": "library.html",
-    "title": "Library",
-    "section": "",
-    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nDescription\n\n\n\n\n\n\n\n\nMar 7, 2026\n\n\nDigital Literacy\n\n\nA Practical Guide to Using Technology Wisely\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Open Handbook Commons",
-    "section": "",
-    "text": "Open Practical Knowledge for Everyone\n\n\n | [matrix] | \n\nUnder Active Development"
-  },
-  {
     "objectID": "contribute/index.html",
     "href": "contribute/index.html",
     "title": "Contribute",
@@ -60,6 +25,62 @@
     "href": "books/ohc-001-digital-literacy/index.html",
     "title": "Digital Literacy",
     "section": "",
-    "text": "Digital technology is now part of everyday life. Many people use computers, smartphones, and the internet every day. We use these tools to communicate with others, learn new things, work, read news, watch videos, and store information.\nBecause of this, it is important to understand how to use digital technology in a safe, responsible, and effective way. This ability is called digital literacy.\nDigital literacy is more than knowing how to use a computer or a phone. It also includes knowing how to find reliable information on the internet, communicate respectfully online, protect personal information, recognize scams and false information, and create and share digital content responsibly.\nThis book is written to help readers learn these skills. It explains digital tools and ideas in clear and simple language. The chapters introduce common technologies, explain how the internet works, and discuss topics such as online safety, misinformation, and responsible online behavior.\nThis book is written for students, teachers, self-learners, and anyone who wants to better understand the digital world. No advanced technical knowledge is required to read this book.\nTechnology continues to change quickly. New tools and services appear every year. The goal of digital literacy is not only to learn how to use current tools, but also to develop the skills needed to learn and adapt in the future.\nWe hope this book helps readers feel more confident when using digital technology and encourages thoughtful and responsible use of the internet and digital tools.\nNote: This book is being actively written and not ready for release yet.\nTo contribute to this book, visit the GitHub repository:\nopenhandbookcommons/ohc-001-digital-literacy"
+    "text": "Digital technology is now part of everyday life. Many people use computers, smartphones, and the internet every day. We use these tools to communicate with others, learn new things, work, read news, watch videos, and store information.\nBecause of this, it is important to understand how to use digital technology in a safe, responsible, and effective way. This ability is called digital literacy.\nDigital literacy is more than knowing how to use a computer or a phone. It also includes knowing how to find reliable information on the internet, communicate respectfully online, protect personal information, recognize scams and false information, and create and share digital content responsibly.\nThis book is written to help readers learn these skills. It explains digital tools and ideas in clear and simple language. The chapters introduce common technologies, explain how the internet works, and discuss topics such as online safety, misinformation, and responsible online behavior.\nThis book is written for students, teachers, self-learners, and anyone who wants to better understand the digital world. No advanced technical knowledge is required to read this book.\nTechnology continues to change quickly. New tools and services appear every year. The goal of digital literacy is not only to learn how to use current tools, but also to develop the skills needed to learn and adapt in the future.\nWe hope this book helps readers feel more confident when using digital technology and encourages thoughtful and responsible use of the internet and digital tools."
+  },
+  {
+    "objectID": "books/ohc-001-digital-literacy/index.html#download",
+    "href": "books/ohc-001-digital-literacy/index.html#download",
+    "title": "Digital Literacy",
+    "section": "Download",
+    "text": "Download\nThis book is being actively written and not ready for release yet."
+  },
+  {
+    "objectID": "books/ohc-001-digital-literacy/index.html#proposed-parts-and-chapters",
+    "href": "books/ohc-001-digital-literacy/index.html#proposed-parts-and-chapters",
+    "title": "Digital Literacy",
+    "section": "Proposed Parts and Chapters",
+    "text": "Proposed Parts and Chapters\n\nI Understanding the Digital World\n\nWhat Is Digital Literacy?\nTypes of Digital Devices\n\nII Basic Digital Skills\n\nOperating Systems and File Management\nUsing the Internet\nCommunication Online\n\nIII Finding and Evaluating Information\n\nSearching for Reliable Information\nMisinformation and Fake News\nUnderstanding Digital Media\n\nIV Online Safety and Privacy\n\nProtecting Your Personal Information\nPasswords and Account Security\nProtecting Your Personal Information\n\nV Digital Citizenship\n\nResponsible Behavior Online\nDigital Footprints\nCopyright and Creative Commons\n\nVI Creating Digital Content\n\nWriting and Publishing Online\nWorking With Digital Media\nCollaboration in the Digital World\n\nVII Digital Skills for Work and Learning\n\nProductivity Tools\nUsing Technology for Lifelong Learning\n\nVIII The Future of the Digital World\n\nArtificial Intelligence and Automation\nEthical Use of Technology\nStaying Digitally Literate"
+  },
+  {
+    "objectID": "books/ohc-001-digital-literacy/index.html#contribute",
+    "href": "books/ohc-001-digital-literacy/index.html#contribute",
+    "title": "Digital Literacy",
+    "section": "Contribute",
+    "text": "Contribute\nTo contribute to this book, visit the GitHub repository or send your contribution by email at contact@openhandbook.org:\nopenhandbookcommons/ohc-001-digital-literacy"
+  },
+  {
+    "objectID": "library.html",
+    "href": "library.html",
+    "title": "Library",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nDescription\n\n\n\n\n\n\n\n\nMar 7, 2026\n\n\nDigital Literacy\n\n\nA Practical Guide to Using Technology Wisely\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "About",
+    "section": "",
+    "text": "The Open Handbook Commons is a community project that creates practical books about everyday life skills. Our goal is to make useful knowledge available to everyone, no matter where they live or what their background is.\nThe books cover simple and practical topics that help people in daily life. These include skills such as cooking, sewing and mending, home repair, basic survival, outdoor skills, digital literacy, and other useful knowledge. All books are written in simplified English so they are easier to read and understand, including for people who are not native English speakers.\nOur books are released as downloadable, print-ready PDF files. Anyone can read them on a computer or phone, or print them and share them with others.\nEvery book published by this project is released under the Creative Commons Attribution–NonCommercial–ShareAlike (CC BY-NC-SA) license. This means you are free to download, print, share, and adapt the material for personal and educational use. You must give proper credit, and any modified versions must use the same license. Commercial printing or selling the books is not allowed without permission.\nAll repositories in this organization are also licensed under CC BY-NC-SA unless a repository states otherwise."
+  },
+  {
+    "objectID": "about/index.html#disclaimers",
+    "href": "about/index.html#disclaimers",
+    "title": "About",
+    "section": "Disclaimers",
+    "text": "Disclaimers\nThe information in these books is provided for education, learning, and hobby use only and is shared “as is.” We do not guarantee that all information is complete or suitable for every situation. The Open Handbook Commons and its contributors are not responsible for any problems, damages, or losses that may result from using this information. Readers are responsible for making sure that any use of the information is safe and lawful.\nSome content may be written or edited with the help of AI tools, especially to convert text into simplified English - all content is reviewed by human contributors.\nThe community works to avoid plagiarism and to respect the work of others. If you find content that may be copied without proper credit or permission, please report it to contact@openhandbook.org, and we will review it."
+  },
+  {
+    "objectID": "about/index.html#contact",
+    "href": "about/index.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\nEmail: contact@openhandbook.org\nPublic Matrix Space: #open-handbook:matrix.org"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Open Handbook Commons",
+    "section": "",
+    "text": "Open Practical Knowledge for Everyone\n\n\n | [matrix] | \n\nUnder Active Development"
   }
 ]

@@ -26,14 +26,71 @@
 <p>This book is written for students, teachers, self-learners, and anyone who wants to better understand the digital world. No advanced technical knowledge is required to read this book.</p>
 <p>Technology continues to change quickly. New tools and services appear every year. The goal of digital literacy is not only to learn how to use current tools, but also to develop the skills needed to learn and adapt in the future.</p>
 <p>We hope this book helps readers feel more confident when using digital technology and encourages thoughtful and responsible use of the internet and digital tools.</p>
-<p><strong>Note: This book is being actively written and not ready for release yet.</strong></p>
-<p>To contribute to this book, visit the GitHub repository:</p>
+<section id="download" class="level2">
+<h2 class="anchored" data-anchor-id="download">Download</h2>
+<p><strong>This book is being actively written and not ready for release yet.</strong></p>
+</section>
+<section id="proposed-parts-and-chapters" class="level2">
+<h2 class="anchored" data-anchor-id="proposed-parts-and-chapters">Proposed Parts and Chapters</h2>
+<ul>
+<li>I Understanding the Digital World
+<ul>
+<li>What Is Digital Literacy?</li>
+<li>Types of Digital Devices</li>
+</ul></li>
+<li>II Basic Digital Skills
+<ul>
+<li>Operating Systems and File Management</li>
+<li>Using the Internet</li>
+<li>Communication Online</li>
+</ul></li>
+<li>III Finding and Evaluating Information
+<ul>
+<li>Searching for Reliable Information</li>
+<li>Misinformation and Fake News</li>
+<li>Understanding Digital Media</li>
+</ul></li>
+<li>IV Online Safety and Privacy
+<ul>
+<li>Protecting Your Personal Information</li>
+<li>Passwords and Account Security</li>
+<li>Protecting Your Personal Information</li>
+</ul></li>
+<li>V Digital Citizenship
+<ul>
+<li>Responsible Behavior Online</li>
+<li>Digital Footprints</li>
+<li>Copyright and Creative Commons</li>
+</ul></li>
+<li>VI Creating Digital Content
+<ul>
+<li>Writing and Publishing Online</li>
+<li>Working With Digital Media</li>
+<li>Collaboration in the Digital World</li>
+</ul></li>
+<li>VII Digital Skills for Work and Learning
+<ul>
+<li>Productivity Tools</li>
+<li>Using Technology for Lifelong Learning</li>
+</ul></li>
+<li>VIII The Future of the Digital World
+<ul>
+<li>Artificial Intelligence and Automation</li>
+<li>Ethical Use of Technology</li>
+<li>Staying Digitally Literate</li>
+</ul></li>
+</ul>
+</section>
+<section id="contribute" class="level2">
+<h2 class="anchored" data-anchor-id="contribute">Contribute</h2>
+<p><b>To contribute to this book, visit the GitHub repository or send your contribution by email at <a href="mailto:contact@openhandbook.org">contact@openhandbook.org</a>:</b></p>
 <a href="https://github.com/openhandbookcommons/ohc-001-digital-literacy">openhandbookcommons/ohc-001-digital-literacy</a><br>
 <img src="https://img.shields.io/github/stars/openhandbookcommons/ohc-001-digital-literacy?style=social" alt="Stars">
 <img src="https://img.shields.io/github/forks/openhandbookcommons/ohc-001-digital-literacy?style=social" alt="Forks">
 <img src="https://img.shields.io/github/issues/openhandbookcommons/ohc-001-digital-literacy" alt="Issues">
 
 
+</section>
 
  ]]></description>
   <category>Technology</category>
