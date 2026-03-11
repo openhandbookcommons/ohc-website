@@ -28,17 +28,18 @@
 <p>We hope this book helps readers feel more confident when using digital technology and encourages thoughtful and responsible use of the internet and digital tools.</p>
 <section id="download" class="level2">
 <h2 class="anchored" data-anchor-id="download">Download</h2>
-<p><strong>This book is being actively written and not ready for release yet.</strong></p>
+<p><a href="https://github.com/openhandbookcommons/ohc-001-digital-literacy/releases/latest/download/ohc-001-digital-literacy.pdf"><strong>Download the Latest PDF</strong></a></p>
+<p>For previous versions, see the <a href="https://github.com/openhandbookcommons/ohc-001-digital-literacy/releases">releases page on GitHub</a> or the Zenodo archive: <a href="https://doi.org/10.5281/zenodo.18962490"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.18962490.svg" class="img-fluid" alt="DOI"></a></p>
 </section>
 <section id="proposed-parts-and-chapters" class="level2">
 <h2 class="anchored" data-anchor-id="proposed-parts-and-chapters">Proposed Parts and Chapters</h2>
 <ul>
-<li>I Understanding the Digital World
+<li>I Understanding the Digital World <strong>(complete)</strong>
 <ul>
 <li>What Is Digital Literacy?</li>
 <li>Types of Digital Devices</li>
 </ul></li>
-<li>II Basic Digital Skills
+<li>II Basic Digital Skills <strong>(complete)</strong>
 <ul>
 <li>Operating Systems and File Management</li>
 <li>Using the Internet</li>
@@ -83,11 +84,14 @@
 </section>
 <section id="contribute" class="level2">
 <h2 class="anchored" data-anchor-id="contribute">Contribute</h2>
-<p><b>To contribute to this book, visit the GitHub repository or send your contribution by email at <a href="mailto:contact@openhandbook.org">contact@openhandbook.org</a>:</b></p>
+<p><b>To contribute to this book, send your contribution by email at <a href="mailto:contact@openhandbook.org">contact@openhandbook.org</a> or visit the GitHub repository:</b></p>
 <a href="https://github.com/openhandbookcommons/ohc-001-digital-literacy">openhandbookcommons/ohc-001-digital-literacy</a><br>
+<img src="https://img.shields.io/github/release/openhandbookcommons/ohc-001-digital-literacy" alt="Release">
+<img src="https://img.shields.io/github/contributors/openhandbookcommons/ohc-001-digital-literacy" alt="Contributors">
 <img src="https://img.shields.io/github/stars/openhandbookcommons/ohc-001-digital-literacy?style=social" alt="Stars">
 <img src="https://img.shields.io/github/forks/openhandbookcommons/ohc-001-digital-literacy?style=social" alt="Forks">
 <img src="https://img.shields.io/github/issues/openhandbookcommons/ohc-001-digital-literacy" alt="Issues">
+<img src="https://img.shields.io/github/discussions/openhandbookcommons/ohc-001-digital-literacy" alt="Discussions">
 
 
 </section>

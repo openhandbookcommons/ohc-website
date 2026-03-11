@@ -2,6 +2,7 @@
 title: "Digital Literacy"
 description: "A Practical Guide to Using Technology Wisely"
 date: 2026-03-07
+last-modified: 2026-03-11
 categories: "Technology"
 ---
 
@@ -21,14 +22,16 @@ We hope this book helps readers feel more confident when using digital technolog
 
 ## Download
 
-**This book is being actively written and not ready for release yet.**
+[**Download the Latest PDF**](https://github.com/openhandbookcommons/ohc-001-digital-literacy/releases/latest/download/ohc-001-digital-literacy.pdf)
+
+For previous versions, see the [releases page on GitHub](https://github.com/openhandbookcommons/ohc-001-digital-literacy/releases) or the Zenodo archive: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18962490.svg)](https://doi.org/10.5281/zenodo.18962490)
 
 ## Proposed Parts and Chapters
 
-* I Understanding the Digital World
+* I Understanding the Digital World **(complete)**
     * What Is Digital Literacy?
     * Types of Digital Devices
-* II Basic Digital Skills
+* II Basic Digital Skills **(complete)**
     * Operating Systems and File Management
     * Using the Internet
     * Communication Online
@@ -59,10 +62,13 @@ We hope this book helps readers feel more confident when using digital technolog
 ## Contribute
 
 ```{=html}
-<p><b>To contribute to this book, visit the GitHub repository or send your contribution by email at <a href="mailto:contact@openhandbook.org">contact@openhandbook.org</a>:</b></p>
+<p><b>To contribute to this book, send your contribution by email at <a href="mailto:contact@openhandbook.org">contact@openhandbook.org</a> or visit the GitHub repository:</b></p>
 <a href="https://github.com/openhandbookcommons/ohc-001-digital-literacy">openhandbookcommons/ohc-001-digital-literacy</a><br>
+<img src="https://img.shields.io/github/release/openhandbookcommons/ohc-001-digital-literacy" alt="Release">
+<img src="https://img.shields.io/github/contributors/openhandbookcommons/ohc-001-digital-literacy" alt="Contributors">
 <img src="https://img.shields.io/github/stars/openhandbookcommons/ohc-001-digital-literacy?style=social" alt="Stars">
 <img src="https://img.shields.io/github/forks/openhandbookcommons/ohc-001-digital-literacy?style=social" alt="Forks">
 <img src="https://img.shields.io/github/issues/openhandbookcommons/ohc-001-digital-literacy" alt="Issues">
+<img src="https://img.shields.io/github/discussions/openhandbookcommons/ohc-001-digital-literacy" alt="Discussions">
 ```
 
