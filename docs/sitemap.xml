@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://openhandbook.org/contribute/index.html</loc>
-    <lastmod>2026-03-09T16:43:41.450Z</lastmod>
+    <loc>https://openhandbook.org/about/index.html</loc>
+    <lastmod>2026-03-07T20:02:05.019Z</lastmod>
   </url>
   <url>
     <loc>https://openhandbook.org/books/ohc-001-digital-literacy/index.html</loc>
-    <lastmod>2026-03-11T16:43:24.629Z</lastmod>
+    <lastmod>2026-03-12T13:31:49.367Z</lastmod>
   </url>
   <url>
-    <loc>https://openhandbook.org/library.html</loc>
-    <lastmod>2026-03-09T16:43:41.467Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openhandbook.org/about/index.html</loc>
-    <lastmod>2026-03-09T16:43:41.449Z</lastmod>
+    <loc>https://openhandbook.org/contribute/index.html</loc>
+    <lastmod>2026-03-07T20:03:19.535Z</lastmod>
   </url>
   <url>
     <loc>https://openhandbook.org/index.html</loc>
-    <lastmod>2026-03-09T16:43:41.467Z</lastmod>
+    <lastmod>2026-03-07T19:59:04.954Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openhandbook.org/library.html</loc>
+    <lastmod>2026-03-07T20:47:15.059Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openhandbook.org/faq/index.html</loc>
+    <lastmod>2026-03-27T17:38:16.619Z</lastmod>
   </url>
 </urlset>

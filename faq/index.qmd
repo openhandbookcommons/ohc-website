@@ -1,0 +1,152 @@
+---
+title: "Frequently Asked Questions (FAQ)"
+page-layout: full
+title-block-banner: false
+toc: true
+toc-depth: 3
+---
+
+### What is Open Handbook Commons?
+
+Open Handbook Commons is a community project that creates practical books about everyday life skills. These books are designed to be simple, useful, and accessible to anyone, regardless of background or location.
+
+### What kind of topics do the books cover?
+
+The books focus primarily on practical skills that people can use in daily life. Topics include cooking, sewing and mending, home repair, outdoor skills, basic survival, digital literacy, and other useful areas. However, broader academic or trade-related topics are also welcome.
+
+### Who are these books for?
+
+The books are for everyone. They are especially helpful for:
+
+* People who want to learn practical skills
+* Beginners with little or no prior knowledge
+* Readers who prefer clear and simple explanations
+* Non-native English speakers
+
+### Why are the books written in simplified English?
+
+We use simplified English to make the content easier to understand for more people. Many readers are not native English speakers, and complex language can make learning harder.
+
+Our goal is clarity, not complexity. Short sentences, common words, and clear explanations help readers learn faster.
+
+### How can I read the books?
+
+All books are available as downloadable, print-ready PDF files. You can:
+
+* Read them on a computer, tablet, or phone
+* Print them at home or locally
+* Share them with others
+
+### Can I share or print the books?
+
+Yes. All books are released under the Creative Commons Attribution–NonCommercial–ShareAlike (CC BY-NC-SA) license.
+
+This means you can:
+
+* Download and share the books
+* Print copies for personal or educational use
+* Adapt the content for non-commercial purposes
+
+You must give proper credit and use the same license for any modified versions. Commercial use is not allowed without permission.
+
+### Can I contribute to the project?
+
+Yes. This project depends on community contributions.
+
+You can contribute in many ways:
+
+* Writing new content
+* Editing or improving existing chapters
+* Fixing grammar or typos
+* Checking facts
+* Reporting possible plagiarism
+* Suggesting improvements
+
+### Do I need to know GitHub to contribute?
+
+No. While we mainly use GitHub for contributions, it is not required.
+
+If you are not familiar with GitHub, you can simply email your suggestions or corrections to **[contact@openhandbook.org](mailto:contact@openhandbook.org)**, and we will review them.
+
+### Why do you allow the use of AI?
+
+We allow the use of AI tools because they help make the project more inclusive.
+
+Many people have valuable knowledge and real-world experience but may find it difficult to write clearly for a general audience. AI tools can help:
+
+* Improve grammar
+* Simplify language
+* Make writing clearer and more structured
+
+This allows more people to contribute, even if they are not confident writers.
+
+However, AI is only a tool. Contributors are responsible for reviewing their work to ensure accuracy and quality. Human review is always required.
+
+### Is AI-generated content allowed without review?
+
+No. All content must be reviewed by human contributors.
+
+AI can assist with writing and editing, but it should not replace careful thinking, fact-checking, and responsibility for the content.
+
+### How do you handle plagiarism?
+
+We take plagiarism seriously and check all new submissions using online tools to ensure the content is original.
+
+Contributors are expected to:
+
+* Write in their own words
+* Give proper credit when using other sources
+* Avoid copying text without permission
+
+If you find content that may be copied without proper credit, please report it to **[contact@openhandbook.org](mailto:contact@openhandbook.org)**.
+
+### Are the books guaranteed to be accurate?
+
+No. The content is provided for education and learning purposes only and is shared “as is.”
+
+While contributors try to ensure accuracy, we do not guarantee that all information is complete or suitable for every situation. Readers are responsible for using the information safely and appropriately.
+
+### Can I use the content for commercial purposes?
+
+No. The license does not allow commercial use without permission.
+
+If you want to use the material commercially (for example, selling printed copies), you must request permission.
+
+### How are the books preserved for the long term?
+
+We use long-term archiving through [Zenodo](https://zenodo.org/) to preserve each book.
+
+Zenodo assigns a permanent DOI (Digital Object Identifier) to every release. This means:
+
+* Each version of a book is permanently stored
+* The files remain accessible even if the original repository changes
+* Readers and researchers can reliably cite the books
+
+GitHub is used for active development and updates, while Zenodo ensures stable, long-term access and preservation.
+
+### Where can I find the source code and books?
+
+* GitHub organization: [https://github.com/openhandbookcommons](https://github.com/openhandbookcommons)
+* Library page: see the full list of books and their repositories
+
+### Why are the books designed to be self-contained?
+
+We want the books to remain useful over time, even when printed.
+
+Web links can break or disappear. By keeping content self-contained, readers can understand the material without needing to rely on external websites.
+
+### Can I suggest a new book or topic?
+
+Yes. Suggestions are welcome.
+
+You can:
+
+* Open an issue on GitHub
+* Start a discussion
+* Send an email with your idea
+
+### How can I contact the project?
+
+* Email: [contact@openhandbook.org](mailto:contact@openhandbook.org)
+* Matrix: [https://matrix.to/#/#open-handbook:matrix.org](https://matrix.to/#/#open-handbook:matrix.org)
+
